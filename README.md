@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Applying To Heavenly Mayhem
 
-You can use the [editor on GitHub](https://github.com/dec4234/Apply/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for your interest in joining Heavenly Mayhem. Our application process is simple and fast.
 
 ### Markdown
 
