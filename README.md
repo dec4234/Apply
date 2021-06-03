@@ -2,6 +2,8 @@
 
 Thank you for your interest in joining Heavenly Mayhem. Our application process is simple and fast.
 
+[![Discord Banner 2](https://discordapp.com/api/guilds/432198675087753217/widget.png?style=banner2)](https://discord.gg/dvZmP92d4h)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
